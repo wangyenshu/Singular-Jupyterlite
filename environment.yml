@@ -1,0 +1,22 @@
+name: xeus-kernel
+channels:
+  - https://repo.prefix.dev/emscripten-forge-4x
+  - https://repo.prefix.dev/conda-forge
+dependencies:
+  - xeus-python
+  - ipycanvas
+  - xeus-singular
+  - singular
+  - gmp
+  - ntl
+  - libflint
+  - mpfr
+  - cddlib
+  - normaliz
+  - memtailor
+  - mathic
+  - mathicgb
+  - glpk
+  - 4ti2
+  - topcom
+  - libeantic
