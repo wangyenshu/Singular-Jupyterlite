@@ -20,5 +20,5 @@ dependencies:
   - mathicgb
   - glpk
   - 4ti2
-  - topcom
+  - topcom 
   - libeantic
